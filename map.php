@@ -734,7 +734,7 @@ var listeo_login = {"ajaxurl":"https:\/\/libonatour.x10.mx\/wp-admin\/admin-ajax
 <script type='text/javascript' src='https://libonatour.x10.mx/wp-content/themes/listeo/js/magnific-popup.min.js?ver=2' id='magnific-popup-min-js'></script>
 <script type='text/javascript' src='https://libonatour.x10.mx/wp-content/themes/listeo/js/slick.min.js?ver=2' id='slick-min-js'></script>
 <script type='text/javascript' src='https://libonatour.x10.mx/wp-content/themes/listeo/js/quantityButtons.js?ver=2' id='quantityButtons-js'></script>
-<script type='text/javascript' src='https://libonatour.x10.mx/wp-content/themes/listeo/js/rangeslider.min.js?ver=2' id='rangeslider-min-js'></script>
+<script type='text/javascript' src='https://libonatourist.x10.mx/wp-content/themes/listeo/js/rangeslider.min.js?ver=2' id='rangeslider-min-js'></script>
 <script type='text/javascript' src='https://libonatour.x10.mx/wp-content/themes/listeo/js/timedropper.js?ver=2' id='timedropper-js'></script>
 <script type='text/javascript' src='https://libonatour.x10.mx/wp-content/themes/listeo/js/jquery.scrollto.js?ver=2' id='jquery-scrollto-js'></script>
 <script type='text/javascript' src='https://libonatour.x10.mx/wp-content/themes/listeo/js/tooltips.min.js?ver=2' id='tooltips-min-js'></script>
@@ -1020,7 +1020,7 @@ moment.updateLocale( 'en_US', {"months":["January","February","March","April","M
 		<div class="mobile-navigation-list">
 			<ul id="mobile-nav" class="menu"><li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-229"><a href="https://libonatour.x10.mx/">Home</a></li>
 <li id="menu-item-222" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-103 current_page_item menu-item-222"><a href="https://libonatour.x10.mx/half-grid-layout-2/" aria-current="page">Places to Go</a></li>
-<li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="https://libonatour.x10.mx/about-us/">About Us</a></li>
+<li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="https://libonatour.x10.mx/about-us">About Us</a></li>
 </ul>		</div>
 
 		<div class="mobile-nav-widgets">
@@ -1065,7 +1065,7 @@ E-Mail: <a href="#">office@example.com</a></p>
 						<nav id="navigation" class="style-1">
 							<ul id="responsive" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-229 parentid0 depth0 dropdown"><a href="https://libonatour.x10.mx/" >Home</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-103 current_page_item menu-item-222 parentid0 depth0 dropdown"><a href="https://libonatour.x10.mx/half-grid-layout-2/" >Places to Go</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686 parentid0 depth0 dropdown"><a href="https://libonatour.x10.mx/about-us/" >About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686 parentid0 depth0 dropdown"><a href="https://libonatour.x10.mx/about-us" >About Us</a></li>
 </ul>
 						</nav>
 						<div class="clearfix"></div>
@@ -1218,76 +1218,13 @@ E-Mail: <a href="#">office@example.com</a></p>
 			
 							<div class="row">
 				<div class="col-fs-12 panel-wrapper">												
-														<!-- Panel Dropdown -->
-							<div class="panel-dropdown wide " id="tax-listing_category-panel">
-								<a href="#">Categories</a>
-								<div class="panel-dropdown-content checkboxes ">
-							<div class="row  ">
-	<div class="panel-checkboxes-container">
-			
-	
-	
-		<div class="panel-checkbox-wrap">
-			<input  id="adventure-tax-listing_category" value="adventure" type="checkbox" name="tax-listing_category[adventure]">
-			<label for="adventure-tax-listing_category">Adventure</label>	
-		</div>
-	
-		<div class="panel-checkbox-wrap">
-			<input  id="scenic-view-tax-listing_category" value="scenic-view" type="checkbox" name="tax-listing_category[scenic-view]">
-			<label for="scenic-view-tax-listing_category">Scenic View</label>	
-		</div>
-	
-		<div class="panel-checkbox-wrap">
-			<input  id="restaurant-tax-listing_category" value="restaurant" type="checkbox" name="tax-listing_category[restaurant]">
-			<label for="restaurant-tax-listing_category">Restaurant</label>	
-		</div>
-	
-		<div class="panel-checkbox-wrap">
-			<input  id="farm-tax-listing_category" value="farm" type="checkbox" name="tax-listing_category[farm]">
-			<label for="farm-tax-listing_category">Farm</label>	
-		</div>
-			
-		
-	
-	
-		<div class="panel-checkbox-wrap">
-			<input  id="resort-tax-listing_category" value="resort" type="checkbox" name="tax-listing_category[resort]">
-			<label for="resort-tax-listing_category">Resort</label>	
-		</div>
-			
-	</div>
+														
+
+
 
 
 </div>							<!-- Panel Dropdown -->
-									<div class="panel-buttons">
-																					<span class="panel-cancel">Close</span>
-																				
-										<button class="panel-apply">Apply</button>
-									</div>
-								</div>
-							</div>
-													
-														<!-- Panel Dropdown -->
-							<div class="panel-dropdown wide " id="tax-listing_feature-panel">
-								<a href="#">More Filters</a>
-								<div class="panel-dropdown-content checkboxes dynamic">
-							<div class="row  ">
-	<div class="notification warning"><p>Please choose category to display filters</p> </div>
-
-
-</div>							<!-- Panel Dropdown -->
-									<div class="panel-buttons">
-																					<span class="panel-cancel">Close</span>
-																				
-										<button class="panel-apply">Apply</button>
-									</div>
-								</div>
-							</div>
-													
-														<!-- Panel Dropdown -->
-							<div class="panel-dropdown  " id="_price-panel">
-								<a href="#">Price Filter</a>
-								<div class="panel-dropdown-content  ">
+							
 							
 <!-- Range Slider -->
 
@@ -1295,24 +1232,7 @@ E-Mail: <a href="#">office@example.com</a></p>
 	<!-- Range Slider -->
 					
 				
-	<div class="range-slider-container ">
-		<span class="range-slider-headline">Price Filter </span>
-		<div class="range-slider-subtitle">Select min and max price range</div>
-		<input  id="_price_range"  name="_price_range"  class="bootstrap-range-slider" type="text" value="" data-slider-currency="&#36;" data-slider-min="" data-slider-max="" data-slider-step="1" data-slider-value="[0,1]"/>
-	</div>
-	<span class="slider-disable" data-disable="Disable Price Filter " data-enable="Enable Price Filter ">Enable Price Filter </span>
-</div>							<!-- Panel Dropdown -->
-									<div class="panel-buttons">
-																					<span class="panel-cancel">Close</span>
-																				
-										<button class="panel-apply">Apply</button>
-									</div>
-								</div>
-							</div>
-						
-				</div>
-				</div>
-			 			<input type="hidden" name="action" value="listeo_get_listings" />
+	
 			<!-- More Search Options / End -->
 			
 							</form>
@@ -1336,8 +1256,6 @@ E-Mail: <a href="#">office@example.com</a></p>
 	<div class="col-md-3 col-xs-6">
 		<!-- Layout Switcher -->
 		<div class="layout-switcher">
-			<a href="#" data-layout="grid" class="grid"><i class="fa fa-th"></i></a>
-			<a href="#" data-layout="list" class="list"><i class="fa fa-align-justify"></i></a>
 		</div>
 	</div>
 
@@ -1346,26 +1264,6 @@ E-Mail: <a href="#">office@example.com</a></p>
 	<div class="col-md-9">
 			<div class="fullwidth-filters  ajax-search ">
 
-			
-			
-							<!-- Sort by -->
-				<div class="sort-by">
-					<div class="sort-by-select">
-												<select form="listeo_core-search-form" name="listeo_core_order" data-placeholder="Default order" class="select2-sortby orderby">
-							<option  value="default">Default Order</option>
-							<option  value="highest-rated">Highest Rated</option>
-															<option  value="reviewed">Most Reviewed</option>
-														<option  value="date-desc">Newest Listings</option>
-							<option  value="date-asc">Oldest Listings</option>
-							<option  value="title">Alphabetically</option>
-							<option  selected='selected' value="featured">Featured</option>
-							<option  value="views">Most Views</option>
-							<option  value="verified">Verified</option>
-							<option  value="upcoming-event">Upcoming Event</option>
-							<option  value="rand">Random</option>
-						</select>
-					</div>
-				</div>
 				<!-- Sort by / End -->
 			
 		</div>
